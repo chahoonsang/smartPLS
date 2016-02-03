@@ -1,0 +1,40 @@
+<ModelFileSettings>
+   <settings.general locked="false" currentModelName="Extended model.splsm" multigroupCalculationPossible="true"/>
+   <settings.data locked="false" algorithm="MEAN_REPLACEMENT" convergenceLevel="0" skipCompleteDataset="false" modelName="null"/>
+   <settings.algorithm.pls locked="false" weightingScheme="PATH" dataMetric="DATA_METRIC_1" maxIterations="300" stopCriterion="7" useLohmoellerMissingValueStyle="false">
+      <initialWeights class="java.util.ArrayList">
+         <initialWeight mv="attr_1" lv="ATTR" weight="1.0"/>
+         <initialWeight mv="attr_2" lv="ATTR" weight="1.0"/>
+         <initialWeight mv="attr_3" lv="ATTR" weight="1.0"/>
+         <initialWeight mv="comp_1" lv="COMP" weight="1.0"/>
+         <initialWeight mv="comp_2" lv="COMP" weight="1.0"/>
+         <initialWeight mv="comp_3" lv="COMP" weight="1.0"/>
+         <initialWeight mv="csor_1" lv="CSOR" weight="1.0"/>
+         <initialWeight mv="csor_2" lv="CSOR" weight="1.0"/>
+         <initialWeight mv="csor_3" lv="CSOR" weight="1.0"/>
+         <initialWeight mv="csor_4" lv="CSOR" weight="1.0"/>
+         <initialWeight mv="csor_5" lv="CSOR" weight="1.0"/>
+         <initialWeight mv="cusa" lv="CUSA" weight="1.0"/>
+         <initialWeight mv="cusl_1" lv="CUSL" weight="1.0"/>
+         <initialWeight mv="cusl_2" lv="CUSL" weight="1.0"/>
+         <initialWeight mv="cusl_3" lv="CUSL" weight="1.0"/>
+         <initialWeight mv="like_1" lv="LIKE" weight="1.0"/>
+         <initialWeight mv="like_2" lv="LIKE" weight="1.0"/>
+         <initialWeight mv="like_3" lv="LIKE" weight="1.0"/>
+         <initialWeight mv="perf_1" lv="PERF" weight="1.0"/>
+         <initialWeight mv="perf_2" lv="PERF" weight="1.0"/>
+         <initialWeight mv="perf_3" lv="PERF" weight="1.0"/>
+         <initialWeight mv="perf_4" lv="PERF" weight="1.0"/>
+         <initialWeight mv="perf_5" lv="PERF" weight="1.0"/>
+         <initialWeight mv="qual_1" lv="QUAL" weight="1.0"/>
+         <initialWeight mv="qual_2" lv="QUAL" weight="1.0"/>
+         <initialWeight mv="qual_3" lv="QUAL" weight="1.0"/>
+         <initialWeight mv="qual_4" lv="QUAL" weight="1.0"/>
+         <initialWeight mv="qual_5" lv="QUAL" weight="1.0"/>
+         <initialWeight mv="qual_6" lv="QUAL" weight="1.0"/>
+         <initialWeight mv="qual_7" lv="QUAL" weight="1.0"/>
+         <initialWeight mv="qual_8" lv="QUAL" weight="1.0"/>
+      </initialWeights>
+   </settings.algorithm.pls>
+   <settings.algorithm.bootstrapping locked="false" signChanges="NO_CHANGES" samples="50" confidenceIntervalMethod="PERCENTILE_BCA" significanceLevel="0.05" testType="TWO_TAILED" parallelProcessing="true" bootstrappingComplexity="COMPLETE_BOOTSTRAPPING"/>
+</ModelFileSettings>

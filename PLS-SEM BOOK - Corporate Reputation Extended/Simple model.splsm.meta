@@ -1,0 +1,19 @@
+<ModelFileSettings>
+   <settings.general locked="false" currentModelName="Extended model.splsm" multigroupCalculationPossible="true"/>
+   <settings.data locked="false" algorithm="MEAN_REPLACEMENT" convergenceLevel="0" skipCompleteDataset="false" modelName="null"/>
+   <settings.algorithm.pls locked="false" weightingScheme="PATH" dataMetric="DATA_METRIC_1" maxIterations="300" stopCriterion="7" useLohmoellerMissingValueStyle="false">
+      <initialWeights class="java.util.ArrayList">
+         <initialWeight mv="comp_1" lv="COMP" weight="1.0"/>
+         <initialWeight mv="comp_2" lv="COMP" weight="1.0"/>
+         <initialWeight mv="comp_3" lv="COMP" weight="1.0"/>
+         <initialWeight mv="cusa" lv="CUSA" weight="1.0"/>
+         <initialWeight mv="cusl_1" lv="CUSL" weight="1.0"/>
+         <initialWeight mv="cusl_2" lv="CUSL" weight="1.0"/>
+         <initialWeight mv="cusl_3" lv="CUSL" weight="1.0"/>
+         <initialWeight mv="like_1" lv="LIKE" weight="1.0"/>
+         <initialWeight mv="like_2" lv="LIKE" weight="1.0"/>
+         <initialWeight mv="like_3" lv="LIKE" weight="1.0"/>
+      </initialWeights>
+   </settings.algorithm.pls>
+   <settings.algorithm.bootstrapping locked="false" signChanges="NO_CHANGES" samples="50" confidenceIntervalMethod="PERCENTILE_BCA" significanceLevel="0.05" testType="TWO_TAILED" parallelProcessing="true" bootstrappingComplexity="COMPLETE_BOOTSTRAPPING"/>
+</ModelFileSettings>

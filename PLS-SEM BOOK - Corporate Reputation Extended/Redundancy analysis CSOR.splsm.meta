@@ -1,0 +1,14 @@
+<ModelFileSettings>
+   <settings.general locked="false" currentModelName="Redundancy analysis CSOR.splsm" multigroupCalculationPossible="true"/>
+   <settings.data locked="false" algorithm="MEAN_REPLACEMENT" convergenceLevel="0" skipCompleteDataset="false" modelName="null"/>
+   <settings.algorithm.pls locked="false" weightingScheme="PATH" dataMetric="DATA_METRIC_1" maxIterations="300" stopCriterion="7" useLohmoellerMissingValueStyle="false">
+      <initialWeights class="java.util.ArrayList">
+         <initialWeight mv="csor_1" lv="CSOR_F" weight="1.0"/>
+         <initialWeight mv="csor_2" lv="CSOR_F" weight="1.0"/>
+         <initialWeight mv="csor_3" lv="CSOR_F" weight="1.0"/>
+         <initialWeight mv="csor_4" lv="CSOR_F" weight="1.0"/>
+         <initialWeight mv="csor_5" lv="CSOR_F" weight="1.0"/>
+         <initialWeight mv="csor_global" lv="CSOR_G" weight="1.0"/>
+      </initialWeights>
+   </settings.algorithm.pls>
+</ModelFileSettings>

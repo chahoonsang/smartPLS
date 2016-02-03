@@ -1,0 +1,63 @@
+<ModelFileSettings>
+   <settings.general locked="false" currentModelName="ECSI Model.splsm" multigroupCalculationPossible="true"/>
+   <settings.data locked="false" algorithm="NONE" convergenceLevel="0" skipCompleteDataset="false" modelName="null"/>
+   <settings.algorithm.pls locked="false" weightingScheme="FACTOR" dataMetric="DATA_METRIC_1" maxIterations="3000" stopCriterion="10" useLohmoellerMissingValueStyle="false">
+      <initialWeights class="java.util.ArrayList">
+         <initialWeight mv="CUEX1" lv="Expectation" weight="1.0"/>
+         <initialWeight mv="CUEX2" lv="Expectation" weight="1.0"/>
+         <initialWeight mv="CUEX3" lv="Expectation" weight="1.0"/>
+         <initialWeight mv="CUSA1" lv="Satisfaction" weight="1.0"/>
+         <initialWeight mv="CUSA2" lv="Satisfaction" weight="1.0"/>
+         <initialWeight mv="CUSA3" lv="Satisfaction" weight="1.0"/>
+         <initialWeight mv="CUSCO" lv="COMP" weight="1.0"/>
+         <initialWeight mv="CUSL1" lv="Loyality" weight="1.0"/>
+         <initialWeight mv="CUSL2" lv="Loyality" weight="1.0"/>
+         <initialWeight mv="CUSL3" lv="Loyality" weight="1.0"/>
+         <initialWeight mv="IMAG1" lv="Image" weight="1.0"/>
+         <initialWeight mv="IMAG2" lv="Image" weight="1.0"/>
+         <initialWeight mv="IMAG3" lv="Image" weight="1.0"/>
+         <initialWeight mv="IMAG4" lv="Image" weight="1.0"/>
+         <initialWeight mv="IMAG5" lv="Image" weight="1.0"/>
+         <initialWeight mv="PERQ1" lv="Quality" weight="1.0"/>
+         <initialWeight mv="PERQ2" lv="Quality" weight="1.0"/>
+         <initialWeight mv="PERQ3" lv="Quality" weight="1.0"/>
+         <initialWeight mv="PERQ4" lv="Quality" weight="1.0"/>
+         <initialWeight mv="PERQ5" lv="Quality" weight="1.0"/>
+         <initialWeight mv="PERQ6" lv="Quality" weight="1.0"/>
+         <initialWeight mv="PERQ7" lv="Quality" weight="1.0"/>
+         <initialWeight mv="PERV1" lv="Value" weight="1.0"/>
+         <initialWeight mv="PERV2" lv="Value" weight="1.0"/>
+      </initialWeights>
+   </settings.algorithm.pls>
+   <settings.algorithm.plsc locked="false" connectAllLVsforInitialCalculation="true"/>
+   <settings.algorithm.bootstrapping locked="false" signChanges="INDIVIDUAL_SIGN_CHANGES" samples="50" confidenceIntervalMethod="DAVISION_HINKLEY" significanceLevel="0.05" testType="TWO_TAILED" parallelProcessing="true" bootstrappingComplexity="BASIC_BOOTSTRAPPING"/>
+   <settings.algorithm.bootstrappingc locked="false"/>
+   <settings.algorithm.ipa locked="false" construct="Satisfaction" depth="ALLEXOGENOUS_LV">
+      <ranges class="java.util.ArrayList">
+         <range mv="CUEX1" lv="Expectation" min="1.0" max="10.0"/>
+         <range mv="CUEX2" lv="Expectation" min="1.0" max="10.0"/>
+         <range mv="CUEX3" lv="Expectation" min="1.0" max="10.0"/>
+         <range mv="CUSA1" lv="Satisfaction" min="1.0" max="10.0"/>
+         <range mv="CUSA2" lv="Satisfaction" min="1.0" max="10.0"/>
+         <range mv="CUSA3" lv="Satisfaction" min="1.0" max="10.0"/>
+         <range mv="CUSCO" lv="COMP" min="1.0" max="10.0"/>
+         <range mv="CUSL1" lv="Loyality" min="1.0" max="10.0"/>
+         <range mv="CUSL2" lv="Loyality" min="1.0" max="10.0"/>
+         <range mv="CUSL3" lv="Loyality" min="1.0" max="10.0"/>
+         <range mv="IMAG1" lv="Image" min="1.0" max="10.0"/>
+         <range mv="IMAG2" lv="Image" min="1.0" max="10.0"/>
+         <range mv="IMAG3" lv="Image" min="1.0" max="10.0"/>
+         <range mv="IMAG4" lv="Image" min="1.0" max="10.0"/>
+         <range mv="IMAG5" lv="Image" min="1.0" max="10.0"/>
+         <range mv="PERQ1" lv="Quality" min="1.0" max="10.0"/>
+         <range mv="PERQ2" lv="Quality" min="1.0" max="10.0"/>
+         <range mv="PERQ3" lv="Quality" min="1.0" max="10.0"/>
+         <range mv="PERQ4" lv="Quality" min="1.0" max="10.0"/>
+         <range mv="PERQ5" lv="Quality" min="1.0" max="10.0"/>
+         <range mv="PERQ6" lv="Quality" min="1.0" max="10.0"/>
+         <range mv="PERQ7" lv="Quality" min="1.0" max="10.0"/>
+         <range mv="PERV1" lv="Value" min="1.0" max="10.0"/>
+         <range mv="PERV2" lv="Value" min="1.0" max="10.0"/>
+      </ranges>
+   </settings.algorithm.ipa>
+</ModelFileSettings>

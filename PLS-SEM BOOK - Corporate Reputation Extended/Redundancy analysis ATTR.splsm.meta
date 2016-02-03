@@ -1,0 +1,12 @@
+<ModelFileSettings>
+   <settings.general locked="false" currentModelName="Redundancy analysis ATTR.splsm" multigroupCalculationPossible="true"/>
+   <settings.data locked="false" algorithm="MEAN_REPLACEMENT" convergenceLevel="0" skipCompleteDataset="false" modelName="null"/>
+   <settings.algorithm.pls locked="false" weightingScheme="PATH" dataMetric="DATA_METRIC_1" maxIterations="300" stopCriterion="7" useLohmoellerMissingValueStyle="false">
+      <initialWeights class="java.util.ArrayList">
+         <initialWeight mv="attr_1" lv="ATTR_F" weight="1.0"/>
+         <initialWeight mv="attr_2" lv="ATTR_F" weight="1.0"/>
+         <initialWeight mv="attr_3" lv="ATTR_F" weight="1.0"/>
+         <initialWeight mv="attr_global" lv="ATTR_G" weight="1.0"/>
+      </initialWeights>
+   </settings.algorithm.pls>
+</ModelFileSettings>

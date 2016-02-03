@@ -1,0 +1,304 @@
+<dataInformation numberOfIndicators="24" numberOfCases="250" numberOfMissingValues="0">
+   <indicatorInformation index="0" name="CUEX1" mean="7.58" numberOfRecords="250" numberOfMissingValues="0" lowestValue="1.0" highestValue="10.0" numberOfStrings="0">
+      <string>3.0</string>
+      <string>6.0</string>
+      <string>4.0</string>
+      <string>8.0</string>
+      <string>10.0</string>
+      <string>1.0</string>
+      <string>5.0</string>
+      <string>9.0</string>
+      <string>7.0</string>
+      <errors class="java.util.ArrayList"/>
+   </indicatorInformation>
+   <indicatorInformation index="1" name="CUEX2" mean="7.532" numberOfRecords="250" numberOfMissingValues="0" lowestValue="1.0" highestValue="10.0" numberOfStrings="0">
+      <string>3.0</string>
+      <string>6.0</string>
+      <string>4.0</string>
+      <string>8.0</string>
+      <string>10.0</string>
+      <string>1.0</string>
+      <string>5.0</string>
+      <string>9.0</string>
+      <string>2.0</string>
+      <string>7.0</string>
+      <errors class="java.util.ArrayList"/>
+   </indicatorInformation>
+   <indicatorInformation index="2" name="CUEX3" mean="7.424" numberOfRecords="250" numberOfMissingValues="0" lowestValue="1.0" highestValue="10.0" numberOfStrings="0">
+      <string>3.0</string>
+      <string>6.0</string>
+      <string>4.0</string>
+      <string>8.0</string>
+      <string>10.0</string>
+      <string>1.0</string>
+      <string>5.0</string>
+      <string>9.0</string>
+      <string>2.0</string>
+      <string>7.0</string>
+      <errors class="java.util.ArrayList"/>
+   </indicatorInformation>
+   <indicatorInformation index="3" name="CUSA1" mean="7.988" numberOfRecords="250" numberOfMissingValues="0" lowestValue="4.0" highestValue="10.0" numberOfStrings="0">
+      <string>6.0</string>
+      <string>4.0</string>
+      <string>8.0</string>
+      <string>10.0</string>
+      <string>5.0</string>
+      <string>9.0</string>
+      <string>7.0</string>
+      <errors class="java.util.ArrayList"/>
+   </indicatorInformation>
+   <indicatorInformation index="4" name="CUSA2" mean="7.128" numberOfRecords="250" numberOfMissingValues="0" lowestValue="1.0" highestValue="10.0" numberOfStrings="0">
+      <string>3.0</string>
+      <string>6.0</string>
+      <string>4.0</string>
+      <string>8.0</string>
+      <string>10.0</string>
+      <string>1.0</string>
+      <string>5.0</string>
+      <string>9.0</string>
+      <string>2.0</string>
+      <string>7.0</string>
+      <errors class="java.util.ArrayList"/>
+   </indicatorInformation>
+   <indicatorInformation index="5" name="CUSA3" mean="7.316" numberOfRecords="250" numberOfMissingValues="0" lowestValue="1.0" highestValue="10.0" numberOfStrings="0">
+      <string>3.0</string>
+      <string>6.0</string>
+      <string>4.0</string>
+      <string>10.0</string>
+      <string>8.0</string>
+      <string>1.0</string>
+      <string>5.0</string>
+      <string>9.0</string>
+      <string>2.0</string>
+      <string>7.0</string>
+      <errors class="java.util.ArrayList"/>
+   </indicatorInformation>
+   <indicatorInformation index="6" name="CUSCO" mean="7.068" numberOfRecords="250" numberOfMissingValues="0" lowestValue="1.0" highestValue="10.0" numberOfStrings="0">
+      <string>3.0</string>
+      <string>6.0</string>
+      <string>4.0</string>
+      <string>8.0</string>
+      <string>10.0</string>
+      <string>1.0</string>
+      <string>5.0</string>
+      <string>9.0</string>
+      <string>2.0</string>
+      <string>7.0</string>
+      <errors class="java.util.ArrayList"/>
+   </indicatorInformation>
+   <indicatorInformation index="7" name="CUSL1" mean="7.452" numberOfRecords="250" numberOfMissingValues="0" lowestValue="1.0" highestValue="10.0" numberOfStrings="0">
+      <string>3.0</string>
+      <string>6.0</string>
+      <string>4.0</string>
+      <string>8.0</string>
+      <string>10.0</string>
+      <string>1.0</string>
+      <string>5.0</string>
+      <string>9.0</string>
+      <string>2.0</string>
+      <string>7.0</string>
+      <errors class="java.util.ArrayList"/>
+   </indicatorInformation>
+   <indicatorInformation index="8" name="CUSL2" mean="4.988" numberOfRecords="250" numberOfMissingValues="0" lowestValue="1.0" highestValue="10.0" numberOfStrings="0">
+      <string>3.0</string>
+      <string>6.0</string>
+      <string>4.0</string>
+      <string>10.0</string>
+      <string>8.0</string>
+      <string>1.0</string>
+      <string>5.0</string>
+      <string>9.0</string>
+      <string>2.0</string>
+      <string>7.0</string>
+      <errors class="java.util.ArrayList"/>
+   </indicatorInformation>
+   <indicatorInformation index="9" name="CUSL3" mean="7.668" numberOfRecords="250" numberOfMissingValues="0" lowestValue="1.0" highestValue="10.0" numberOfStrings="0">
+      <string>3.0</string>
+      <string>6.0</string>
+      <string>4.0</string>
+      <string>8.0</string>
+      <string>10.0</string>
+      <string>1.0</string>
+      <string>5.0</string>
+      <string>9.0</string>
+      <string>2.0</string>
+      <string>7.0</string>
+      <errors class="java.util.ArrayList"/>
+   </indicatorInformation>
+   <indicatorInformation index="10" name="IMAG1" mean="7.64" numberOfRecords="250" numberOfMissingValues="0" lowestValue="1.0" highestValue="10.0" numberOfStrings="0">
+      <string>6.0</string>
+      <string>4.0</string>
+      <string>8.0</string>
+      <string>10.0</string>
+      <string>1.0</string>
+      <string>5.0</string>
+      <string>9.0</string>
+      <string>2.0</string>
+      <string>7.0</string>
+      <errors class="java.util.ArrayList"/>
+   </indicatorInformation>
+   <indicatorInformation index="11" name="IMAG2" mean="7.78" numberOfRecords="250" numberOfMissingValues="0" lowestValue="1.0" highestValue="10.0" numberOfStrings="0">
+      <string>3.0</string>
+      <string>6.0</string>
+      <string>4.0</string>
+      <string>8.0</string>
+      <string>10.0</string>
+      <string>1.0</string>
+      <string>5.0</string>
+      <string>9.0</string>
+      <string>2.0</string>
+      <string>7.0</string>
+      <errors class="java.util.ArrayList"/>
+   </indicatorInformation>
+   <indicatorInformation index="12" name="IMAG3" mean="6.744" numberOfRecords="250" numberOfMissingValues="0" lowestValue="1.0" highestValue="10.0" numberOfStrings="0">
+      <string>3.0</string>
+      <string>6.0</string>
+      <string>4.0</string>
+      <string>8.0</string>
+      <string>10.0</string>
+      <string>1.0</string>
+      <string>5.0</string>
+      <string>9.0</string>
+      <string>2.0</string>
+      <string>7.0</string>
+      <errors class="java.util.ArrayList"/>
+   </indicatorInformation>
+   <indicatorInformation index="13" name="IMAG4" mean="7.588" numberOfRecords="250" numberOfMissingValues="0" lowestValue="1.0" highestValue="10.0" numberOfStrings="0">
+      <string>3.0</string>
+      <string>6.0</string>
+      <string>4.0</string>
+      <string>8.0</string>
+      <string>10.0</string>
+      <string>1.0</string>
+      <string>5.0</string>
+      <string>9.0</string>
+      <string>2.0</string>
+      <string>7.0</string>
+      <errors class="java.util.ArrayList"/>
+   </indicatorInformation>
+   <indicatorInformation index="14" name="IMAG5" mean="7.932" numberOfRecords="250" numberOfMissingValues="0" lowestValue="1.0" highestValue="10.0" numberOfStrings="0">
+      <string>6.0</string>
+      <string>4.0</string>
+      <string>8.0</string>
+      <string>10.0</string>
+      <string>1.0</string>
+      <string>5.0</string>
+      <string>9.0</string>
+      <string>2.0</string>
+      <string>7.0</string>
+      <errors class="java.util.ArrayList"/>
+   </indicatorInformation>
+   <indicatorInformation index="15" name="PERQ1" mean="7.944" numberOfRecords="250" numberOfMissingValues="0" lowestValue="2.0" highestValue="10.0" numberOfStrings="0">
+      <string>3.0</string>
+      <string>6.0</string>
+      <string>4.0</string>
+      <string>8.0</string>
+      <string>10.0</string>
+      <string>5.0</string>
+      <string>9.0</string>
+      <string>2.0</string>
+      <string>7.0</string>
+      <errors class="java.util.ArrayList"/>
+   </indicatorInformation>
+   <indicatorInformation index="16" name="PERQ2" mean="7.192" numberOfRecords="250" numberOfMissingValues="0" lowestValue="1.0" highestValue="10.0" numberOfStrings="0">
+      <string>3.0</string>
+      <string>6.0</string>
+      <string>4.0</string>
+      <string>10.0</string>
+      <string>8.0</string>
+      <string>1.0</string>
+      <string>5.0</string>
+      <string>9.0</string>
+      <string>2.0</string>
+      <string>7.0</string>
+      <errors class="java.util.ArrayList"/>
+   </indicatorInformation>
+   <indicatorInformation index="17" name="PERQ3" mean="7.7" numberOfRecords="250" numberOfMissingValues="0" lowestValue="1.0" highestValue="10.0" numberOfStrings="0">
+      <string>3.0</string>
+      <string>6.0</string>
+      <string>4.0</string>
+      <string>8.0</string>
+      <string>10.0</string>
+      <string>1.0</string>
+      <string>5.0</string>
+      <string>9.0</string>
+      <string>2.0</string>
+      <string>7.0</string>
+      <errors class="java.util.ArrayList"/>
+   </indicatorInformation>
+   <indicatorInformation index="18" name="PERQ4" mean="7.916" numberOfRecords="250" numberOfMissingValues="0" lowestValue="1.0" highestValue="10.0" numberOfStrings="0">
+      <string>3.0</string>
+      <string>6.0</string>
+      <string>4.0</string>
+      <string>8.0</string>
+      <string>10.0</string>
+      <string>1.0</string>
+      <string>5.0</string>
+      <string>9.0</string>
+      <string>2.0</string>
+      <string>7.0</string>
+      <errors class="java.util.ArrayList"/>
+   </indicatorInformation>
+   <indicatorInformation index="19" name="PERQ5" mean="7.872" numberOfRecords="250" numberOfMissingValues="0" lowestValue="3.0" highestValue="10.0" numberOfStrings="0">
+      <string>3.0</string>
+      <string>6.0</string>
+      <string>4.0</string>
+      <string>10.0</string>
+      <string>8.0</string>
+      <string>5.0</string>
+      <string>9.0</string>
+      <string>7.0</string>
+      <errors class="java.util.ArrayList"/>
+   </indicatorInformation>
+   <indicatorInformation index="20" name="PERQ6" mean="7.776" numberOfRecords="250" numberOfMissingValues="0" lowestValue="1.0" highestValue="10.0" numberOfStrings="0">
+      <string>3.0</string>
+      <string>6.0</string>
+      <string>4.0</string>
+      <string>8.0</string>
+      <string>10.0</string>
+      <string>1.0</string>
+      <string>5.0</string>
+      <string>9.0</string>
+      <string>7.0</string>
+      <errors class="java.util.ArrayList"/>
+   </indicatorInformation>
+   <indicatorInformation index="21" name="PERQ7" mean="7.592" numberOfRecords="250" numberOfMissingValues="0" lowestValue="1.0" highestValue="10.0" numberOfStrings="0">
+      <string>3.0</string>
+      <string>6.0</string>
+      <string>4.0</string>
+      <string>8.0</string>
+      <string>10.0</string>
+      <string>1.0</string>
+      <string>5.0</string>
+      <string>9.0</string>
+      <string>2.0</string>
+      <string>7.0</string>
+      <errors class="java.util.ArrayList"/>
+   </indicatorInformation>
+   <indicatorInformation index="22" name="PERV1" mean="6.156" numberOfRecords="250" numberOfMissingValues="0" lowestValue="1.0" highestValue="10.0" numberOfStrings="0">
+      <string>3.0</string>
+      <string>6.0</string>
+      <string>4.0</string>
+      <string>8.0</string>
+      <string>10.0</string>
+      <string>1.0</string>
+      <string>5.0</string>
+      <string>9.0</string>
+      <string>2.0</string>
+      <string>7.0</string>
+      <errors class="java.util.ArrayList"/>
+   </indicatorInformation>
+   <indicatorInformation index="23" name="PERV2" mean="6.916" numberOfRecords="250" numberOfMissingValues="0" lowestValue="1.0" highestValue="10.0" numberOfStrings="0">
+      <string>3.0</string>
+      <string>6.0</string>
+      <string>4.0</string>
+      <string>8.0</string>
+      <string>10.0</string>
+      <string>1.0</string>
+      <string>5.0</string>
+      <string>9.0</string>
+      <string>2.0</string>
+      <string>7.0</string>
+      <errors class="java.util.ArrayList"/>
+   </indicatorInformation>
+</dataInformation>

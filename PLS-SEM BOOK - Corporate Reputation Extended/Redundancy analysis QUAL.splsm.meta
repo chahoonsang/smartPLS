@@ -1,0 +1,17 @@
+<ModelFileSettings>
+   <settings.general locked="false" currentModelName="Redundancy analysis QUAL.splsm" multigroupCalculationPossible="true"/>
+   <settings.data locked="false" algorithm="MEAN_REPLACEMENT" convergenceLevel="0" skipCompleteDataset="false" modelName="null"/>
+   <settings.algorithm.pls locked="false" weightingScheme="PATH" dataMetric="DATA_METRIC_1" maxIterations="300" stopCriterion="7" useLohmoellerMissingValueStyle="false">
+      <initialWeights class="java.util.ArrayList">
+         <initialWeight mv="qual_1" lv="QUAL_F" weight="1.0"/>
+         <initialWeight mv="qual_2" lv="QUAL_F" weight="1.0"/>
+         <initialWeight mv="qual_3" lv="QUAL_F" weight="1.0"/>
+         <initialWeight mv="qual_4" lv="QUAL_F" weight="1.0"/>
+         <initialWeight mv="qual_5" lv="QUAL_F" weight="1.0"/>
+         <initialWeight mv="qual_6" lv="QUAL_F" weight="1.0"/>
+         <initialWeight mv="qual_7" lv="QUAL_F" weight="1.0"/>
+         <initialWeight mv="qual_8" lv="QUAL_F" weight="1.0"/>
+         <initialWeight mv="qual_global" lv="QUAL_G" weight="1.0"/>
+      </initialWeights>
+   </settings.algorithm.pls>
+</ModelFileSettings>

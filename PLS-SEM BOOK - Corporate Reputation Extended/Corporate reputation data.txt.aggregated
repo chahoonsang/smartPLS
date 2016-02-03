@@ -1,0 +1,391 @@
+<dataInformation numberOfIndicators="41" numberOfCases="344" numberOfMissingValues="11">
+   <indicatorInformation index="0" name="serviceprovider" mean="2.0" numberOfRecords="344" numberOfMissingValues="0" lowestValue="1.0" highestValue="4.0" numberOfStrings="0">
+      <string>1.0</string>
+      <string>2.0</string>
+      <string>3.0</string>
+      <string>4.0</string>
+      <errors class="java.util.ArrayList"/>
+   </indicatorInformation>
+   <indicatorInformation index="1" name="servicetype" mean="1.6366279069767442" numberOfRecords="344" numberOfMissingValues="0" lowestValue="1.0" highestValue="2.0" numberOfStrings="0">
+      <string>1.0</string>
+      <string>2.0</string>
+      <errors class="java.util.ArrayList"/>
+   </indicatorInformation>
+   <indicatorInformation index="2" name="comp_1" mean="4.648255813953488" numberOfRecords="344" numberOfMissingValues="0" lowestValue="1.0" highestValue="7.0" numberOfStrings="0">
+      <string>1.0</string>
+      <string>2.0</string>
+      <string>3.0</string>
+      <string>4.0</string>
+      <string>5.0</string>
+      <string>6.0</string>
+      <string>7.0</string>
+      <errors class="java.util.ArrayList"/>
+   </indicatorInformation>
+   <indicatorInformation index="3" name="comp_2" mean="5.424418604651163" numberOfRecords="344" numberOfMissingValues="0" lowestValue="1.0" highestValue="7.0" numberOfStrings="0">
+      <string>1.0</string>
+      <string>2.0</string>
+      <string>3.0</string>
+      <string>4.0</string>
+      <string>5.0</string>
+      <string>6.0</string>
+      <string>7.0</string>
+      <errors class="java.util.ArrayList"/>
+   </indicatorInformation>
+   <indicatorInformation index="4" name="comp_3" mean="5.22093023255814" numberOfRecords="344" numberOfMissingValues="0" lowestValue="1.0" highestValue="7.0" numberOfStrings="0">
+      <string>1.0</string>
+      <string>2.0</string>
+      <string>3.0</string>
+      <string>4.0</string>
+      <string>5.0</string>
+      <string>6.0</string>
+      <string>7.0</string>
+      <errors class="java.util.ArrayList"/>
+   </indicatorInformation>
+   <indicatorInformation index="5" name="like_1" mean="4.584302325581396" numberOfRecords="344" numberOfMissingValues="0" lowestValue="1.0" highestValue="7.0" numberOfStrings="0">
+      <string>1.0</string>
+      <string>2.0</string>
+      <string>3.0</string>
+      <string>4.0</string>
+      <string>5.0</string>
+      <string>6.0</string>
+      <string>7.0</string>
+      <errors class="java.util.ArrayList"/>
+   </indicatorInformation>
+   <indicatorInformation index="6" name="like_2" mean="4.25" numberOfRecords="344" numberOfMissingValues="0" lowestValue="1.0" highestValue="7.0" numberOfStrings="0">
+      <string>1.0</string>
+      <string>2.0</string>
+      <string>3.0</string>
+      <string>4.0</string>
+      <string>5.0</string>
+      <string>6.0</string>
+      <string>7.0</string>
+      <errors class="java.util.ArrayList"/>
+   </indicatorInformation>
+   <indicatorInformation index="7" name="like_3" mean="4.479651162790698" numberOfRecords="344" numberOfMissingValues="0" lowestValue="1.0" highestValue="7.0" numberOfStrings="0">
+      <string>1.0</string>
+      <string>2.0</string>
+      <string>3.0</string>
+      <string>4.0</string>
+      <string>5.0</string>
+      <string>6.0</string>
+      <string>7.0</string>
+      <errors class="java.util.ArrayList"/>
+   </indicatorInformation>
+   <indicatorInformation index="8" name="cusl_1" mean="5.129032258064516" numberOfRecords="344" numberOfMissingValues="3" lowestValue="1.0" highestValue="7.0" numberOfStrings="0">
+      <string>1.0</string>
+      <string>2.0</string>
+      <string>3.0</string>
+      <string>4.0</string>
+      <string>5.0</string>
+      <string>6.0</string>
+      <string>7.0</string>
+      <errors class="java.util.ArrayList"/>
+   </indicatorInformation>
+   <indicatorInformation index="9" name="cusl_2" mean="5.276470588235294" numberOfRecords="344" numberOfMissingValues="4" lowestValue="1.0" highestValue="7.0" numberOfStrings="0">
+      <string>1.0</string>
+      <string>2.0</string>
+      <string>3.0</string>
+      <string>4.0</string>
+      <string>5.0</string>
+      <string>6.0</string>
+      <string>7.0</string>
+      <errors class="java.util.ArrayList"/>
+   </indicatorInformation>
+   <indicatorInformation index="10" name="cusl_3" mean="5.651026392961877" numberOfRecords="344" numberOfMissingValues="3" lowestValue="1.0" highestValue="7.0" numberOfStrings="0">
+      <string>1.0</string>
+      <string>2.0</string>
+      <string>3.0</string>
+      <string>4.0</string>
+      <string>5.0</string>
+      <string>6.0</string>
+      <string>7.0</string>
+      <errors class="java.util.ArrayList"/>
+   </indicatorInformation>
+   <indicatorInformation index="11" name="cusa" mean="5.440233236151603" numberOfRecords="344" numberOfMissingValues="1" lowestValue="1.0" highestValue="7.0" numberOfStrings="0">
+      <string>1.0</string>
+      <string>2.0</string>
+      <string>3.0</string>
+      <string>4.0</string>
+      <string>5.0</string>
+      <string>6.0</string>
+      <string>7.0</string>
+      <errors class="java.util.ArrayList"/>
+   </indicatorInformation>
+   <indicatorInformation index="12" name="csor_1" mean="4.2354651162790695" numberOfRecords="344" numberOfMissingValues="0" lowestValue="1.0" highestValue="7.0" numberOfStrings="0">
+      <string>1.0</string>
+      <string>2.0</string>
+      <string>3.0</string>
+      <string>4.0</string>
+      <string>5.0</string>
+      <string>6.0</string>
+      <string>7.0</string>
+      <errors class="java.util.ArrayList"/>
+   </indicatorInformation>
+   <indicatorInformation index="13" name="csor_2" mean="3.0755813953488373" numberOfRecords="344" numberOfMissingValues="0" lowestValue="1.0" highestValue="7.0" numberOfStrings="0">
+      <string>1.0</string>
+      <string>2.0</string>
+      <string>3.0</string>
+      <string>4.0</string>
+      <string>5.0</string>
+      <string>6.0</string>
+      <string>7.0</string>
+      <errors class="java.util.ArrayList"/>
+   </indicatorInformation>
+   <indicatorInformation index="14" name="csor_3" mean="3.988372093023256" numberOfRecords="344" numberOfMissingValues="0" lowestValue="1.0" highestValue="7.0" numberOfStrings="0">
+      <string>1.0</string>
+      <string>2.0</string>
+      <string>3.0</string>
+      <string>4.0</string>
+      <string>5.0</string>
+      <string>6.0</string>
+      <string>7.0</string>
+      <errors class="java.util.ArrayList"/>
+   </indicatorInformation>
+   <indicatorInformation index="15" name="csor_4" mean="3.125" numberOfRecords="344" numberOfMissingValues="0" lowestValue="1.0" highestValue="7.0" numberOfStrings="0">
+      <string>1.0</string>
+      <string>2.0</string>
+      <string>3.0</string>
+      <string>4.0</string>
+      <string>5.0</string>
+      <string>6.0</string>
+      <string>7.0</string>
+      <errors class="java.util.ArrayList"/>
+   </indicatorInformation>
+   <indicatorInformation index="16" name="csor_5" mean="3.9825581395348837" numberOfRecords="344" numberOfMissingValues="0" lowestValue="1.0" highestValue="7.0" numberOfStrings="0">
+      <string>1.0</string>
+      <string>2.0</string>
+      <string>3.0</string>
+      <string>4.0</string>
+      <string>5.0</string>
+      <string>6.0</string>
+      <string>7.0</string>
+      <errors class="java.util.ArrayList"/>
+   </indicatorInformation>
+   <indicatorInformation index="17" name="csor_global" mean="4.988372093023256" numberOfRecords="344" numberOfMissingValues="0" lowestValue="1.0" highestValue="7.0" numberOfStrings="0">
+      <string>1.0</string>
+      <string>2.0</string>
+      <string>3.0</string>
+      <string>4.0</string>
+      <string>5.0</string>
+      <string>6.0</string>
+      <string>7.0</string>
+      <errors class="java.util.ArrayList"/>
+   </indicatorInformation>
+   <indicatorInformation index="18" name="attr_1" mean="4.991279069767442" numberOfRecords="344" numberOfMissingValues="0" lowestValue="1.0" highestValue="7.0" numberOfStrings="0">
+      <string>1.0</string>
+      <string>2.0</string>
+      <string>3.0</string>
+      <string>4.0</string>
+      <string>5.0</string>
+      <string>6.0</string>
+      <string>7.0</string>
+      <errors class="java.util.ArrayList"/>
+   </indicatorInformation>
+   <indicatorInformation index="19" name="attr_2" mean="2.9447674418604652" numberOfRecords="344" numberOfMissingValues="0" lowestValue="1.0" highestValue="7.0" numberOfStrings="0">
+      <string>1.0</string>
+      <string>2.0</string>
+      <string>3.0</string>
+      <string>4.0</string>
+      <string>5.0</string>
+      <string>6.0</string>
+      <string>7.0</string>
+      <errors class="java.util.ArrayList"/>
+   </indicatorInformation>
+   <indicatorInformation index="20" name="attr_3" mean="4.811046511627907" numberOfRecords="344" numberOfMissingValues="0" lowestValue="1.0" highestValue="7.0" numberOfStrings="0">
+      <string>1.0</string>
+      <string>2.0</string>
+      <string>3.0</string>
+      <string>4.0</string>
+      <string>5.0</string>
+      <string>6.0</string>
+      <string>7.0</string>
+      <errors class="java.util.ArrayList"/>
+   </indicatorInformation>
+   <indicatorInformation index="21" name="attr_global" mean="5.587209302325581" numberOfRecords="344" numberOfMissingValues="0" lowestValue="2.0" highestValue="7.0" numberOfStrings="0">
+      <string>2.0</string>
+      <string>3.0</string>
+      <string>4.0</string>
+      <string>5.0</string>
+      <string>6.0</string>
+      <string>7.0</string>
+      <errors class="java.util.ArrayList"/>
+   </indicatorInformation>
+   <indicatorInformation index="22" name="perf_1" mean="4.619186046511628" numberOfRecords="344" numberOfMissingValues="0" lowestValue="1.0" highestValue="7.0" numberOfStrings="0">
+      <string>1.0</string>
+      <string>2.0</string>
+      <string>3.0</string>
+      <string>4.0</string>
+      <string>5.0</string>
+      <string>6.0</string>
+      <string>7.0</string>
+      <errors class="java.util.ArrayList"/>
+   </indicatorInformation>
+   <indicatorInformation index="23" name="perf_2" mean="5.069767441860465" numberOfRecords="344" numberOfMissingValues="0" lowestValue="1.0" highestValue="7.0" numberOfStrings="0">
+      <string>1.0</string>
+      <string>2.0</string>
+      <string>3.0</string>
+      <string>4.0</string>
+      <string>5.0</string>
+      <string>6.0</string>
+      <string>7.0</string>
+      <errors class="java.util.ArrayList"/>
+   </indicatorInformation>
+   <indicatorInformation index="24" name="perf_3" mean="4.72093023255814" numberOfRecords="344" numberOfMissingValues="0" lowestValue="1.0" highestValue="7.0" numberOfStrings="0">
+      <string>1.0</string>
+      <string>2.0</string>
+      <string>3.0</string>
+      <string>4.0</string>
+      <string>5.0</string>
+      <string>6.0</string>
+      <string>7.0</string>
+      <errors class="java.util.ArrayList"/>
+   </indicatorInformation>
+   <indicatorInformation index="25" name="perf_4" mean="4.9186046511627906" numberOfRecords="344" numberOfMissingValues="0" lowestValue="1.0" highestValue="7.0" numberOfStrings="0">
+      <string>1.0</string>
+      <string>2.0</string>
+      <string>3.0</string>
+      <string>4.0</string>
+      <string>5.0</string>
+      <string>6.0</string>
+      <string>7.0</string>
+      <errors class="java.util.ArrayList"/>
+   </indicatorInformation>
+   <indicatorInformation index="26" name="perf_5" mean="4.97093023255814" numberOfRecords="344" numberOfMissingValues="0" lowestValue="1.0" highestValue="7.0" numberOfStrings="0">
+      <string>1.0</string>
+      <string>2.0</string>
+      <string>3.0</string>
+      <string>4.0</string>
+      <string>5.0</string>
+      <string>6.0</string>
+      <string>7.0</string>
+      <errors class="java.util.ArrayList"/>
+   </indicatorInformation>
+   <indicatorInformation index="27" name="perf_global" mean="5.976744186046512" numberOfRecords="344" numberOfMissingValues="0" lowestValue="3.0" highestValue="7.0" numberOfStrings="0">
+      <string>3.0</string>
+      <string>4.0</string>
+      <string>5.0</string>
+      <string>6.0</string>
+      <string>7.0</string>
+      <errors class="java.util.ArrayList"/>
+   </indicatorInformation>
+   <indicatorInformation index="28" name="qual_1" mean="5.0523255813953485" numberOfRecords="344" numberOfMissingValues="0" lowestValue="1.0" highestValue="7.0" numberOfStrings="0">
+      <string>1.0</string>
+      <string>2.0</string>
+      <string>3.0</string>
+      <string>4.0</string>
+      <string>5.0</string>
+      <string>6.0</string>
+      <string>7.0</string>
+      <errors class="java.util.ArrayList"/>
+   </indicatorInformation>
+   <indicatorInformation index="29" name="qual_2" mean="4.372093023255814" numberOfRecords="344" numberOfMissingValues="0" lowestValue="1.0" highestValue="7.0" numberOfStrings="0">
+      <string>1.0</string>
+      <string>2.0</string>
+      <string>3.0</string>
+      <string>4.0</string>
+      <string>5.0</string>
+      <string>6.0</string>
+      <string>7.0</string>
+      <errors class="java.util.ArrayList"/>
+   </indicatorInformation>
+   <indicatorInformation index="30" name="qual_3" mean="5.0813953488372094" numberOfRecords="344" numberOfMissingValues="0" lowestValue="1.0" highestValue="7.0" numberOfStrings="0">
+      <string>1.0</string>
+      <string>2.0</string>
+      <string>3.0</string>
+      <string>4.0</string>
+      <string>5.0</string>
+      <string>6.0</string>
+      <string>7.0</string>
+      <errors class="java.util.ArrayList"/>
+   </indicatorInformation>
+   <indicatorInformation index="31" name="qual_4" mean="4.412790697674419" numberOfRecords="344" numberOfMissingValues="0" lowestValue="1.0" highestValue="7.0" numberOfStrings="0">
+      <string>1.0</string>
+      <string>2.0</string>
+      <string>3.0</string>
+      <string>4.0</string>
+      <string>5.0</string>
+      <string>6.0</string>
+      <string>7.0</string>
+      <errors class="java.util.ArrayList"/>
+   </indicatorInformation>
+   <indicatorInformation index="32" name="qual_5" mean="5.011627906976744" numberOfRecords="344" numberOfMissingValues="0" lowestValue="1.0" highestValue="7.0" numberOfStrings="0">
+      <string>1.0</string>
+      <string>2.0</string>
+      <string>3.0</string>
+      <string>4.0</string>
+      <string>5.0</string>
+      <string>6.0</string>
+      <string>7.0</string>
+      <errors class="java.util.ArrayList"/>
+   </indicatorInformation>
+   <indicatorInformation index="33" name="qual_6" mean="4.924418604651163" numberOfRecords="344" numberOfMissingValues="0" lowestValue="1.0" highestValue="7.0" numberOfStrings="0">
+      <string>1.0</string>
+      <string>2.0</string>
+      <string>3.0</string>
+      <string>4.0</string>
+      <string>5.0</string>
+      <string>6.0</string>
+      <string>7.0</string>
+      <errors class="java.util.ArrayList"/>
+   </indicatorInformation>
+   <indicatorInformation index="34" name="qual_7" mean="4.398255813953488" numberOfRecords="344" numberOfMissingValues="0" lowestValue="1.0" highestValue="7.0" numberOfStrings="0">
+      <string>1.0</string>
+      <string>2.0</string>
+      <string>3.0</string>
+      <string>4.0</string>
+      <string>5.0</string>
+      <string>6.0</string>
+      <string>7.0</string>
+      <errors class="java.util.ArrayList"/>
+   </indicatorInformation>
+   <indicatorInformation index="35" name="qual_8" mean="4.837209302325581" numberOfRecords="344" numberOfMissingValues="0" lowestValue="1.0" highestValue="7.0" numberOfStrings="0">
+      <string>1.0</string>
+      <string>2.0</string>
+      <string>3.0</string>
+      <string>4.0</string>
+      <string>5.0</string>
+      <string>6.0</string>
+      <string>7.0</string>
+      <errors class="java.util.ArrayList"/>
+   </indicatorInformation>
+   <indicatorInformation index="36" name="qual_global" mean="6.026162790697675" numberOfRecords="344" numberOfMissingValues="0" lowestValue="2.0" highestValue="7.0" numberOfStrings="0">
+      <string>2.0</string>
+      <string>3.0</string>
+      <string>4.0</string>
+      <string>5.0</string>
+      <string>6.0</string>
+      <string>7.0</string>
+      <errors class="java.util.ArrayList"/>
+   </indicatorInformation>
+   <indicatorInformation index="37" name="switch_1" mean="3.76453488372093" numberOfRecords="344" numberOfMissingValues="0" lowestValue="1.0" highestValue="5.0" numberOfStrings="0">
+      <string>1.0</string>
+      <string>2.0</string>
+      <string>3.0</string>
+      <string>4.0</string>
+      <string>5.0</string>
+      <errors class="java.util.ArrayList"/>
+   </indicatorInformation>
+   <indicatorInformation index="38" name="switch_2" mean="3.3517441860465116" numberOfRecords="344" numberOfMissingValues="0" lowestValue="1.0" highestValue="5.0" numberOfStrings="0">
+      <string>1.0</string>
+      <string>2.0</string>
+      <string>3.0</string>
+      <string>4.0</string>
+      <string>5.0</string>
+      <errors class="java.util.ArrayList"/>
+   </indicatorInformation>
+   <indicatorInformation index="39" name="switch_3" mean="3.880813953488372" numberOfRecords="344" numberOfMissingValues="0" lowestValue="1.0" highestValue="5.0" numberOfStrings="0">
+      <string>1.0</string>
+      <string>2.0</string>
+      <string>3.0</string>
+      <string>4.0</string>
+      <string>5.0</string>
+      <errors class="java.util.ArrayList"/>
+   </indicatorInformation>
+   <indicatorInformation index="40" name="switch_4" mean="2.8372093023255816" numberOfRecords="344" numberOfMissingValues="0" lowestValue="1.0" highestValue="4.0" numberOfStrings="0">
+      <string>1.0</string>
+      <string>2.0</string>
+      <string>3.0</string>
+      <string>4.0</string>
+      <errors class="java.util.ArrayList"/>
+   </indicatorInformation>
+</dataInformation>

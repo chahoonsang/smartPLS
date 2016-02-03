@@ -1,0 +1,14 @@
+<ModelFileSettings>
+   <settings.general locked="false" currentModelName="Redundancy analysis PERF.splsm" multigroupCalculationPossible="true"/>
+   <settings.data locked="false" algorithm="MEAN_REPLACEMENT" convergenceLevel="0" skipCompleteDataset="false" modelName="null"/>
+   <settings.algorithm.pls locked="false" weightingScheme="PATH" dataMetric="DATA_METRIC_1" maxIterations="300" stopCriterion="7" useLohmoellerMissingValueStyle="false">
+      <initialWeights class="java.util.ArrayList">
+         <initialWeight mv="perf_1" lv="PERF_F" weight="1.0"/>
+         <initialWeight mv="perf_2" lv="PERF_F" weight="1.0"/>
+         <initialWeight mv="perf_3" lv="PERF_F" weight="1.0"/>
+         <initialWeight mv="perf_4" lv="PERF_F" weight="1.0"/>
+         <initialWeight mv="perf_5" lv="PERF_F" weight="1.0"/>
+         <initialWeight mv="perf_global" lv="PERF_G" weight="1.0"/>
+      </initialWeights>
+   </settings.algorithm.pls>
+</ModelFileSettings>
