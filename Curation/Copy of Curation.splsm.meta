@@ -3,6 +3,9 @@
    <settings.data locked="false" algorithm="NONE" convergenceLevel="0" skipCompleteDataset="false" modelName="null"/>
    <settings.algorithm.pls locked="false" innerModelDecoratorId="OUTER_MODEL_DECORATOR_PATH_COEFFICIENTS" outerModelDecoratorId="OUTER_MODEL_DECORATOR_WEIGHT_AND_LOADING" constructDecoratorId="CONSTRUCT_DECORATOR_R_SQUARE" pathWeighting="NONE" weightingScheme="PATH" dataMetric="DATA_METRIC_1" maxIterations="300" stopCriterion="7" useLohmoellerMissingValueStyle="false">
       <initialWeights class="java.util.ArrayList">
+         <initialWeight mv="Benefit1 * Fatigue" lv="Moderating Effect 1" weight="1.0"/>
+         <initialWeight mv="Benefit2 * Fatigue" lv="Moderating Effect 2" weight="1.0"/>
+         <initialWeight mv="RiskPrice * Fatigue" lv="Moderating Effect 3" weight="1.0"/>
          <initialWeight mv="benefit1" lv="Benefit1" weight="1.0"/>
          <initialWeight mv="benefit2" lv="Benefit1" weight="1.0"/>
          <initialWeight mv="benefit3" lv="Benefit1" weight="1.0"/>
@@ -12,14 +15,12 @@
          <initialWeight mv="choice1" lv="Preference" weight="1.0"/>
          <initialWeight mv="choice2" lv="Preference" weight="1.0"/>
          <initialWeight mv="choice3" lv="Preference" weight="1.0"/>
-         <initialWeight mv="confidence" lv="confidence" weight="1.0"/>
          <initialWeight mv="fatigue1" lv="Fatigue" weight="1.0"/>
          <initialWeight mv="fatigue2" lv="Fatigue" weight="1.0"/>
          <initialWeight mv="fatigue3" lv="Fatigue" weight="1.0"/>
-         <initialWeight mv="infosearch" lv="confidence" weight="1.0"/>
+         <initialWeight mv="gender" lv="gender" weight="1.0"/>
          <initialWeight mv="involve5" lv="Involve" weight="1.0"/>
          <initialWeight mv="involve6" lv="Involve" weight="1.0"/>
-         <initialWeight mv="lowprice" lv="confidence" weight="1.0"/>
          <initialWeight mv="pre3" lv="CurationExp" weight="1.0"/>
          <initialWeight mv="riskMatch1" lv="RiskMatch" weight="1.0"/>
          <initialWeight mv="riskMatch2" lv="RiskMatch" weight="1.0"/>
