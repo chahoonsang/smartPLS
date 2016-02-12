@@ -4,6 +4,7 @@
    <settings.algorithm.pls locked="false" innerModelDecoratorId="OUTER_MODEL_DECORATOR_PATH_COEFFICIENTS" outerModelDecoratorId="OUTER_MODEL_DECORATOR_WEIGHT_AND_LOADING" constructDecoratorId="CONSTRUCT_DECORATOR_R_SQUARE" pathWeighting="NONE" weightingScheme="PATH" dataMetric="DATA_METRIC_1" maxIterations="300" stopCriterion="7" useLohmoellerMissingValueStyle="false">
       <initialWeights class="java.util.ArrayList">
          <initialWeight mv="Benefit1 * Fatigue" lv="Moderating Effect 1" weight="1.0"/>
+         <initialWeight mv="Benefit1 * RiskPrice" lv="Moderating Effect 4" weight="1.0"/>
          <initialWeight mv="Benefit2 * Fatigue" lv="Moderating Effect 2" weight="1.0"/>
          <initialWeight mv="RiskPrice * Fatigue" lv="Moderating Effect 3" weight="1.0"/>
          <initialWeight mv="benefit1" lv="Benefit1" weight="1.0"/>
